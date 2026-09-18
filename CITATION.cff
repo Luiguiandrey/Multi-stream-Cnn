@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "CNN vs DRF for French NFI forest-attribute prediction"
+message: "If you use this software or data, please cite it as below."
+type: software
+authors:
+  - family-names: "Ramirez Parra"
+    given-names: "Luigui Andrey"
+  - family-names: "Vega"
+    given-names: "Cedric"
+  - family-names: "Renaud"
+    given-names: "Jean-Pierre"
+  - family-names: "Labatie"
+    given-names: "Antoine"
+repository-code: "https://github.com/Luiguiandrey/Multi-stream-Cnn"
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-18"
+doi: ""
