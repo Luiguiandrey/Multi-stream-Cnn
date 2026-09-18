@@ -1,7 +1,7 @@
 # CNN vs DRF for French NFI forest-attribute prediction
 
 Code and reference data for the manuscript:
-**"[Multi-Stream Deep Learning Outperforms Distributional Random Forests for National Forest Inventory Attribute Prediction: A Benchmark Across Ecoregions and Photogrammetric Systems ]"**, [Luigui Andrey Ramirez Parra, Cedric Vega, Jean Pierre Renaud, Antoine Labatie], *[]*, [2026].
+**"[Multi-Stream Deep Learning Outperforms Distributional Random Forests for National Forest Inventory Attribute Prediction: A Benchmark Across Ecoregions and Photogrammetric Systems ]"**, [Luigui Andrey Ramirez Parra, Cedric Vega, Jean Pierre Renaud, Antoine Labatie], *submitted to International Journal of Applied Earth Observation and Geoinformation*, [2026].
 
 ## Repository structure
 ```
@@ -14,7 +14,7 @@ CITATION.cff         citation metadata
 
 ## Target attributes
 Volume (v_wac), basal area (ba_wac), quadratic mean diameter (qmd_wac),
-dominant height (H0_wac), volume production (pv_wac).
+dominant height (H0_wac), GSVI (pv_wac).
 
 ## Environment
 Python 3.12, PyTorch 2.6.0 (CUDA 12.4), timm 1.0.27. Full list in `requirements.txt`.
@@ -53,9 +53,12 @@ plot identifiers, in accordance with IGN's data-sharing conditions. Requests sho
 directed to [CORRESPONDING AUTHOR EMAIL].
 
 ## Citation
-[FULL CITATION]
+[Ramirez-Parra, L. A., Vega, C., Renaud, J.P., & Labatie, A. (2026). Multi-stream CNN for French NFI forest-attribute prediction (v1.0.0) [Pythorch lighting ].]
 
-Zenodo: [ZENODO DOI] | Repository: https://github.com/Luiguiandrey/Multi-stream-Cnn
+Zenodo: [] | Repository: https://github.com/Luiguiandrey/Multi-stream-Cnn
 
 ## Acknowledgements
-National Forest Inventory data provided by IGN. [FUNDING].
+This work received government funding managed by the Agence Nationale de la Recherche under the France 2030 program as part of the "Forest Resilience" research program (PEPR FORESTT), reference number  ANR-24-PEFO-0003.
+This work was supported by the interdisciplinary program ARTEMIS of Lorraine Université d’Excellence (ANR-15-IDEX-04-LUE)
+This work was supported by the TOSCA CNES projects  CFOREST-50M grant number 580000431 and FORGE3D 5800004319
+
