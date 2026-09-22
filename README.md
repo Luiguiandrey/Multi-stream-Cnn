@@ -1,7 +1,7 @@
 # CNN vs DRF for French NFI forest-attribute prediction
 
 Code and reference data for the manuscript:
-**"[Multi-Stream Deep Learning Outperforms Distributional Random Forests for National Forest Inventory Attribute Prediction: A Benchmark Across Ecoregions and Photogrammetric Systems ]"**, [Luigui Andrey Ramirez Parra, Cedric Vega, Jean Pierre Renaud, Antoine Labatie], *submitted to International Journal of Applied Earth Observation and Geoinformation*, [2026].
+**"[Multi-Stream Deep Learning Outperforms Distributional Random Forests for National Forest Inventory Attribute Prediction: A Benchmark Across Ecoregions and Photogrammetric Systems ]"**, [Luigui Andrey Ramirez Parra, Cedric Vega, Jean Pierre Renaud, Antoine Labatie].
 
 ## Repository structure
 ```
