@@ -50,7 +50,7 @@ the French National Institute of Geographic and Forest Information (IGN) and are
 to its data-use terms. These data are available from the authors on reasonable request
 via cloud-storage transfer, following removal of identifying metadata and re-coding of
 plot identifiers, in accordance with IGN's data-sharing conditions. Requests should be
-directed to [CORRESPONDING AUTHOR EMAIL].
+directed to luigui.ramirez-parra@ign.fr
 
 ## Citation
 [Ramirez-Parra, L. A., Renaud, J.P., Labatie, A., Vega, C. (2026). MS-FEED Multi-stream CNN for French NFI forest-attribute prediction (v1.0.0) [Pythorch lighting ].]
