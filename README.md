@@ -53,9 +53,8 @@ plot identifiers, in accordance with IGN's data-sharing conditions. Requests sho
 directed to [CORRESPONDING AUTHOR EMAIL].
 
 ## Citation
-[Ramirez-Parra, L. A., Vega, C., Renaud, J.P., & Labatie, A. (2026). Multi-stream CNN for French NFI forest-attribute prediction (v1.0.0) [Pythorch lighting ].]
-
-Zenodo: [] | Repository: https://github.com/Luiguiandrey/Multi-stream-Cnn
+[Ramirez-Parra, L. A., Vega, C., Renaud, J.P., & Labatie, A. (2026). MS-FEED Multi-stream CNN for French NFI forest-attribute prediction (v1.0.0) [Pythorch lighting ].]
+| Repository: https://github.com/Luiguiandrey/Multi-stream-Cnn
 
 ## Acknowledgements
 This work received government funding managed by the Agence Nationale de la Recherche under the France 2030 program as part of the "Forest Resilience" research program (PEPR FORESTT), reference number  ANR-24-PEFO-0003.
