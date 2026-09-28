@@ -1,7 +1,7 @@
 # MS-FEED CNN vs DRF for French NFI forest-attribute prediction
 
 Code and reference data for the manuscript:
-**"[MS-FEED: multi-stream deep learning for national forest inventory attributes estimation across heterogeneous 3D remote sensing acquisitions ]"**, [Luigui Andrey Ramirez Parra, Cedric Vega, Jean Pierre Renaud, Antoine Labatie].
+**"[MS-FEED: multi-stream deep learning for national forest inventory attributes estimation across heterogeneous 3D remote sensing acquisitions ]"**, [Luigui Andrey Ramirez Parra, Jean Pierre Renaud, Antoine Labatie, Cedric Vega].
 
 ## Repository structure
 ```
@@ -53,7 +53,7 @@ plot identifiers, in accordance with IGN's data-sharing conditions. Requests sho
 directed to [CORRESPONDING AUTHOR EMAIL].
 
 ## Citation
-[Ramirez-Parra, L. A., Vega, C., Renaud, J.P., & Labatie, A. (2026). MS-FEED Multi-stream CNN for French NFI forest-attribute prediction (v1.0.0) [Pythorch lighting ].]
+[Ramirez-Parra, L. A., Renaud, J.P., Labatie, A., Vega, C. (2026). MS-FEED Multi-stream CNN for French NFI forest-attribute prediction (v1.0.0) [Pythorch lighting ].]
 | Repository: https://github.com/Luiguiandrey/Multi-stream-Cnn
 
 ## Acknowledgements
